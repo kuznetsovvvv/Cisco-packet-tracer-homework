@@ -2,13 +2,13 @@
 Для выполнения практических заданий понадобится среда эмуляции сетевого оборудования Cisco Packet Tracer. 
 ---
 [Скачать Packet Tracer](https://code.s3.yandex.net/information-security/Packet_Tracer822_64bit_setup_signed.exe)
-### Настройка Proxy
+## Настройка Proxy
 В окне авторизации перейдем к настройкам Proxy — Proxy Settings.
 В окне Preferences:
 Proxy Type — HTTP Proxy;
 URL — 127.0.0.1;
 Port — 3128.
----
+
 
 ## 🏢 О компании
 
