@@ -174,3 +174,7 @@ permit udp 10.192.0.0 0.15.255.255 10.64.0.0 0.31.255.255 eq 53
 permit udp 10.192.0.0 0.15.255.255 10.96.0.0 0.31.255.255 eq 53
 permit icmp any any
 ```
+<img width="763" height="269" alt="image" src="https://github.com/user-attachments/assets/fa7e64b8-286e-45d2-b1cb-d885fc64682e" />
+
+<img width="827" height="356" alt="image" src="https://github.com/user-attachments/assets/3e690248-7f3b-4621-985b-6425492a1c5d" />
+
